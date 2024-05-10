@@ -15,15 +15,3 @@ This classic dataset contains the prices and other attributes of almost 54,000 d
 **z** : Depth in mm (0 - 31.8)  
 **depth** : Total depth percentage = z / mean(x, y) = 2 * z / (x + y) --> (43 - 79)  
 **table** : Width of top of diamond relative to widest point (43 - 95)
-
-Width in mm (0 - 58.9)
-
-### **z**
-Depth in mm (0 - 31.8)
-
-### **depth**
-Total depth percentage = z / mean(x, y) = 2 * z / (x + y) --> (43 - 79)
-
-### **table**
-Width of top of diamond relative to widest point (43 - 95)
-
