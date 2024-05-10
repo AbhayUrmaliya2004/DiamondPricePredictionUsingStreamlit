@@ -3,8 +3,8 @@ Diamond is a solid form of the element carbon with its atoms arranged in a cryst
 Diamonds Dataset :
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. It's a great dataset for machine learnung and work with data analysis and visualization.
 
-Dataset Columns :
-price : price in US dollars ( $326 - $18,823 )
+**Dataset Columns** :
+*price* : price in US dollars ( $326 - $18,823 )
 
 carat : weight of the diamond ( 0.2 - 5.01 )
 
